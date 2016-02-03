@@ -1,4 +1,4 @@
-demo
+my first app - simple blog
 ====
 
-Ruby on Rails demo app
+
